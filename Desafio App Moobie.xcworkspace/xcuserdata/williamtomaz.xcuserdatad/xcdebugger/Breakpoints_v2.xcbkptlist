@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5E7809F4-0A2E-446F-8F0D-771B6769B1E9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FC7BE35-6F5A-4347-B73A-4B5A6763C1FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Desafio App Moobie/New Group/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "loadREST()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03503317-A1F0-46A2-A590-76B59F653976"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Desafio App Moobie/New Group/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "loadREST()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "03503317-A1F0-46A2-A590-76B59F653976 - c87c1087b1d12525"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;Desafio_App_Moobie.Brands&gt;&gt;) -&gt; () in Desafio_App_Moobie.HomeViewController.loadBrands() -&gt; ()"
+                  moduleName = "Desafio App Moobie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamtomaz/Downloads/Desafio%20App%20Moobie/Desafio%20App%20Moobie/New%20Group/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "275">
+               </Location>
+               <Location
+                  uuid = "03503317-A1F0-46A2-A590-76B59F653976 - f99f3b57dae7112f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Desafio_App_Moobie.Brands, Desafio_App_Moobie.Brands) -&gt; Swift.Bool in closure #1 (Swift.Optional&lt;Swift.Array&lt;Desafio_App_Moobie.Brands&gt;&gt;) -&gt; () in Desafio_App_Moobie.HomeViewController.loadBrands() -&gt; ()"
+                  moduleName = "Desafio App Moobie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamtomaz/Downloads/Desafio%20App%20Moobie/Desafio%20App%20Moobie/New%20Group/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "519DE247-037C-4AD2-AAE1-13DD6B3EF1F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Desafio App Moobie/REST.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "loadBrand(onComplete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "519DE247-037C-4AD2-AAE1-13DD6B3EF1F7 - 6c2616fd4ee502bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Desafio_App_Moobie.REST.loadBrand(requestType: Desafio_App_Moobie.RequestType, brand: Swift.Optional&lt;Swift.String&gt;, codigo_fipe: Swift.Optional&lt;Swift.String&gt;, ano: Swift.Optional&lt;Swift.String&gt;, onComplete: (Swift.Optional&lt;Swift.Array&lt;Desafio_App_Moobie.Brands&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Desafio App Moobie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamtomaz/Downloads/Desafio%20App%20Moobie/Desafio%20App%20Moobie/REST.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "2284">
+               </Location>
+               <Location
+                  uuid = "519DE247-037C-4AD2-AAE1-13DD6B3EF1F7 - a9b456b3ba52f066"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in static Desafio_App_Moobie.REST.loadBrand(requestType: Desafio_App_Moobie.RequestType, brand: Swift.Optional&lt;Swift.String&gt;, codigo_fipe: Swift.Optional&lt;Swift.String&gt;, ano: Swift.Optional&lt;Swift.String&gt;, onComplete: (Swift.Optional&lt;Swift.Array&lt;Desafio_App_Moobie.Brands&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Desafio App Moobie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamtomaz/Downloads/Desafio%20App%20Moobie/Desafio%20App%20Moobie/REST.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6543132D-4E53-4745-9A2E-44297D2A071E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Desafio App Moobie/New Group/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "loadREST()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72BA9528-778D-4251-99E1-26D1E18E5E59"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Desafio App Moobie/New Group/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "loadREST()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

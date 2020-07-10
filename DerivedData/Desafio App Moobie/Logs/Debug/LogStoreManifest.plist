@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>1C7BD548-C4F2-4B09-A86E-5AC5E5A41722</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1C7BD548-C4F2-4B09-A86E-5AC5E5A41722.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615315217.08150005</real>
+			<key>timeStoppedRecording</key>
+			<real>615315310.93455899</real>
+			<key>title</key>
+			<string>Debug Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>1C7BD548-C4F2-4B09-A86E-5AC5E5A41722</string>
+		</dict>
+		<key>27803442-1B8D-4BEB-AE7C-6ED1F0679610</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>27803442-1B8D-4BEB-AE7C-6ED1F0679610.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615315176.27124202</real>
+			<key>timeStoppedRecording</key>
+			<real>615315205.23213804</real>
+			<key>title</key>
+			<string>Debug Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>27803442-1B8D-4BEB-AE7C-6ED1F0679610</string>
+		</dict>
+		<key>28C048B5-8794-4C4A-8DDF-6584B3A36C9B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>28C048B5-8794-4C4A-8DDF-6584B3A36C9B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615313416.52693105</real>
+			<key>timeStoppedRecording</key>
+			<real>615313459.48959398</real>
+			<key>title</key>
+			<string>Debug Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>28C048B5-8794-4C4A-8DDF-6584B3A36C9B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

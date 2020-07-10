@@ -1,0 +1,553 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NetworkActivityLoggerLevel"
+- "NetworkActivityLogger"
+provides-nominal:
+- "30AlamofireNetworkActivityLogger0bcD5LevelO"
+- "30AlamofireNetworkActivityLogger0bcD0C"
+provides-member:
+- ["30AlamofireNetworkActivityLogger0bcD5LevelO", ""]
+- ["30AlamofireNetworkActivityLogger0bcD0C", ""]
+provides-dynamic-lookup:
+- "filterPredicate"
+- "level"
+- "logDivider"
+- "logHeaders"
+- "queue"
+- "requestDidFinish"
+- "requestDidStart"
+- "shared"
+- "startLogging"
+- "stopLogging"
+depends-top-level:
+- "=="
+- "AnyHashable"
+- "AssignmentPrecedence"
+- !private "CastingPrecedence"
+- !private "DataRequest"
+- "DispatchQueue"
+- "FloatLiteralType"
+- !private "HTTPURLResponse"
+- "IntegerLiteralType"
+- !private "JSONSerialization"
+- "NSPredicate"
+- !private "NSString"
+- "NetworkActivityLogger"
+- "NetworkActivityLoggerLevel"
+- "Notification"
+- !private "NotificationCenter"
+- !private "Request"
+- !private "String"
+- "StringLiteralType"
+- "UnicodeScalarType"
+- !private "print"
+depends-member:
+- !private ["SK", "Encoding"]
+- !private ["SK", "init"]
+- !private ["s7CVarArgP", "Encoding"]
+- !private ["s7CVarArgP", "addObserver"]
+- !private ["s7CVarArgP", "allHeaderFields"]
+- !private ["s7CVarArgP", "async"]
+- !private ["s7CVarArgP", "data"]
+- !private ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "error"]
+- !private ["s7CVarArgP", "evaluate"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "jsonObject"]
+- !private ["s7CVarArgP", "originalRequest"]
+- !private ["s7CVarArgP", "removeObserver"]
+- !private ["s7CVarArgP", "response"]
+- !private ["s7CVarArgP", "statusCode"]
+- !private ["s7CVarArgP", "taskInterval"]
+- !private ["Sl", "Encoding"]
+- !private ["Sl", "init"]
+- !private ["SL", "Encoding"]
+- !private ["SL", "duration"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Encoding"]
+- !private ["s28CustomDebugStringConvertibleP", "absoluteString"]
+- !private ["s28CustomDebugStringConvertibleP", "addObserver"]
+- !private ["s28CustomDebugStringConvertibleP", "allHTTPHeaderFields"]
+- !private ["s28CustomDebugStringConvertibleP", "allHeaderFields"]
+- !private ["s28CustomDebugStringConvertibleP", "async"]
+- !private ["s28CustomDebugStringConvertibleP", "data"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "duration"]
+- !private ["s28CustomDebugStringConvertibleP", "error"]
+- !private ["s28CustomDebugStringConvertibleP", "evaluate"]
+- !private ["s28CustomDebugStringConvertibleP", "httpBody"]
+- !private ["s28CustomDebugStringConvertibleP", "httpMethod"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "jsonObject"]
+- !private ["s28CustomDebugStringConvertibleP", "originalRequest"]
+- !private ["s28CustomDebugStringConvertibleP", "removeObserver"]
+- !private ["s28CustomDebugStringConvertibleP", "request"]
+- !private ["s28CustomDebugStringConvertibleP", "response"]
+- !private ["s28CustomDebugStringConvertibleP", "statusCode"]
+- !private ["s28CustomDebugStringConvertibleP", "taskInterval"]
+- !private ["s28CustomDebugStringConvertibleP", "url"]
+- !private ["s17CustomReflectableP", "Encoding"]
+- !private ["s17CustomReflectableP", "allHTTPHeaderFields"]
+- !private ["s17CustomReflectableP", "duration"]
+- !private ["s17CustomReflectableP", "httpBody"]
+- !private ["s17CustomReflectableP", "httpMethod"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "request"]
+- !private ["s17CustomReflectableP", "url"]
+- !private ["s23CustomStringConvertibleP", "Encoding"]
+- !private ["s23CustomStringConvertibleP", "absoluteString"]
+- !private ["s23CustomStringConvertibleP", "addObserver"]
+- !private ["s23CustomStringConvertibleP", "allHTTPHeaderFields"]
+- !private ["s23CustomStringConvertibleP", "allHeaderFields"]
+- ["s23CustomStringConvertibleP", "appendInterpolation"]
+- ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "async"]
+- !private ["s23CustomStringConvertibleP", "data"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "didFinishNotification"]
+- !private ["s23CustomStringConvertibleP", "didResumeNotification"]
+- !private ["s23CustomStringConvertibleP", "duration"]
+- !private ["s23CustomStringConvertibleP", "error"]
+- !private ["s23CustomStringConvertibleP", "evaluate"]
+- !private ["s23CustomStringConvertibleP", "httpBody"]
+- !private ["s23CustomStringConvertibleP", "httpMethod"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "jsonObject"]
+- !private ["s23CustomStringConvertibleP", "metrics"]
+- !private ["s23CustomStringConvertibleP", "originalRequest"]
+- !private ["s23CustomStringConvertibleP", "rawValue"]
+- !private ["s23CustomStringConvertibleP", "removeObserver"]
+- !private ["s23CustomStringConvertibleP", "request"]
+- !private ["s23CustomStringConvertibleP", "response"]
+- !private ["s23CustomStringConvertibleP", "statusCode"]
+- !private ["s23CustomStringConvertibleP", "task"]
+- !private ["s23CustomStringConvertibleP", "taskInterval"]
+- !private ["s23CustomStringConvertibleP", "url"]
+- !private ["s23CustomStringConvertibleP", "utf8"]
+- !private ["9Alamofire11DataRequestC", "data"]
+- !private ["9Alamofire11DataRequestC", "metrics"]
+- !private ["9Alamofire11DataRequestC", "task"]
+- !private ["10Foundation12DateIntervalV", "duration"]
+- !private ["Se", "Encoding"]
+- !private ["Se", "absoluteString"]
+- !private ["Se", "duration"]
+- !private ["Se", "init"]
+- ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["So18OS_dispatch_objectC", "async"]
+- ["So18OS_dispatch_objectC", "init"]
+- !private ["So17OS_dispatch_queueC", "async"]
+- ["So17OS_dispatch_queueC", "init"]
+- !private ["SE", "Encoding"]
+- !private ["SE", "absoluteString"]
+- !private ["SE", "duration"]
+- !private ["SE", "init"]
+- !private ["SS10FoundationE8EncodingV", "rawValue"]
+- !private ["SS10FoundationE8EncodingV", "utf8"]
+- ["SQ", "=="]
+- !private ["SQ", "Encoding"]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "absoluteString"]
+- !private ["SQ", "addObserver"]
+- !private ["SQ", "allHTTPHeaderFields"]
+- !private ["SQ", "allHeaderFields"]
+- !private ["SQ", "async"]
+- !private ["SQ", "data"]
+- !private ["SQ", "debug"]
+- !private ["SQ", "default"]
+- !private ["SQ", "didFinishNotification"]
+- !private ["SQ", "didResumeNotification"]
+- !private ["SQ", "duration"]
+- !private ["SQ", "error"]
+- !private ["SQ", "evaluate"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "httpBody"]
+- !private ["SQ", "httpMethod"]
+- !private ["SQ", "info"]
+- ["SQ", "init"]
+- !private ["SQ", "jsonObject"]
+- !private ["SQ", "metrics"]
+- !private ["SQ", "mutableContainers"]
+- !private ["SQ", "originalRequest"]
+- !private ["SQ", "prettyPrinted"]
+- !private ["SQ", "rawValue"]
+- !private ["SQ", "removeObserver"]
+- !private ["SQ", "request"]
+- !private ["SQ", "response"]
+- !private ["SQ", "statusCode"]
+- !private ["SQ", "task"]
+- !private ["SQ", "taskInterval"]
+- !private ["SQ", "url"]
+- !private ["SQ", "utf8"]
+- !private ["SQ", "warn"]
+- !private ["s25ExpressibleByArrayLiteralP", "mutableContainers"]
+- !private ["s25ExpressibleByArrayLiteralP", "prettyPrinted"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Encoding"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "Encoding"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "Encoding"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "Encoding"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So17NSHTTPURLResponseC", "allHeaderFields"]
+- !private ["So17NSHTTPURLResponseC", "statusCode"]
+- ["SH", "=="]
+- !private ["SH", "Encoding"]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "absoluteString"]
+- !private ["SH", "addObserver"]
+- !private ["SH", "allHTTPHeaderFields"]
+- !private ["SH", "allHeaderFields"]
+- !private ["SH", "async"]
+- !private ["SH", "data"]
+- !private ["SH", "debug"]
+- !private ["SH", "default"]
+- !private ["SH", "didFinishNotification"]
+- !private ["SH", "didResumeNotification"]
+- !private ["SH", "duration"]
+- !private ["SH", "error"]
+- !private ["SH", "evaluate"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "httpBody"]
+- !private ["SH", "httpMethod"]
+- !private ["SH", "info"]
+- ["SH", "init"]
+- !private ["SH", "jsonObject"]
+- !private ["SH", "metrics"]
+- !private ["SH", "originalRequest"]
+- !private ["SH", "rawValue"]
+- !private ["SH", "removeObserver"]
+- !private ["SH", "request"]
+- !private ["SH", "response"]
+- !private ["SH", "statusCode"]
+- !private ["SH", "task"]
+- !private ["SH", "taskInterval"]
+- !private ["SH", "url"]
+- !private ["SH", "utf8"]
+- !private ["SH", "warn"]
+- !private ["s6HasherV", "combine"]
+- !private ["So19NSJSONSerializationC", "data"]
+- !private ["So19NSJSONSerializationC", "jsonObject"]
+- !private ["s25LosslessStringConvertibleP", "Encoding"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "Encoding"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "allHeaderFields"]
+- !private ["So8NSCodingP", "evaluate"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "statusCode"]
+- !private ["So9NSCopyingP", "allHeaderFields"]
+- !private ["So9NSCopyingP", "error"]
+- !private ["So9NSCopyingP", "evaluate"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "originalRequest"]
+- !private ["So9NSCopyingP", "response"]
+- !private ["So9NSCopyingP", "statusCode"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "addObserver"]
+- !private ["So8NSObjectC", "allHeaderFields"]
+- !private ["So8NSObjectC", "async"]
+- !private ["So8NSObjectC", "data"]
+- !private ["So8NSObjectC", "default"]
+- !private ["So8NSObjectC", "error"]
+- !private ["So8NSObjectC", "evaluate"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "jsonObject"]
+- !private ["So8NSObjectC", "originalRequest"]
+- !private ["So8NSObjectC", "removeObserver"]
+- !private ["So8NSObjectC", "response"]
+- !private ["So8NSObjectC", "statusCode"]
+- !private ["So8NSObjectC", "taskInterval"]
+- !private ["So8NSObjectP", "addObserver"]
+- !private ["So8NSObjectP", "allHeaderFields"]
+- !private ["So8NSObjectP", "async"]
+- !private ["So8NSObjectP", "data"]
+- !private ["So8NSObjectP", "default"]
+- !private ["So8NSObjectP", "error"]
+- !private ["So8NSObjectP", "evaluate"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "jsonObject"]
+- !private ["So8NSObjectP", "originalRequest"]
+- !private ["So8NSObjectP", "removeObserver"]
+- !private ["So8NSObjectP", "response"]
+- !private ["So8NSObjectP", "statusCode"]
+- !private ["So8NSObjectP", "taskInterval"]
+- !private ["So11NSPredicateC", "evaluate"]
+- !private ["So14NSSecureCodingP", "allHeaderFields"]
+- !private ["So14NSSecureCodingP", "evaluate"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "statusCode"]
+- !private ["So8NSStringC", "init"]
+- ["30AlamofireNetworkActivityLogger0bcD0C", "AnyHashable"]
+- !private ["30AlamofireNetworkActivityLogger0bcD0C", "DataRequest"]
+- ["30AlamofireNetworkActivityLogger0bcD0C", "DispatchQueue"]
+- !private ["30AlamofireNetworkActivityLogger0bcD0C", "HTTPURLResponse"]
+- !private ["30AlamofireNetworkActivityLogger0bcD0C", "JSONSerialization"]
+- ["30AlamofireNetworkActivityLogger0bcD0C", "NSPredicate"]
+- !private ["30AlamofireNetworkActivityLogger0bcD0C", "NSString"]
+- ["30AlamofireNetworkActivityLogger0bcD0C", "NetworkActivityLogger"]
+- ["30AlamofireNetworkActivityLogger0bcD0C", "NetworkActivityLoggerLevel"]
+- ["30AlamofireNetworkActivityLogger0bcD0C", "Notification"]
+- !private ["30AlamofireNetworkActivityLogger0bcD0C", "NotificationCenter"]
+- !private ["30AlamofireNetworkActivityLogger0bcD0C", "Request"]
+- !private ["30AlamofireNetworkActivityLogger0bcD0C", "String"]
+- ["30AlamofireNetworkActivityLogger0bcD0C", "deinit"]
+- ["30AlamofireNetworkActivityLogger0bcD0C", "filterPredicate"]
+- ["30AlamofireNetworkActivityLogger0bcD0C", "init"]
+- ["30AlamofireNetworkActivityLogger0bcD0C", "level"]
+- !private ["30AlamofireNetworkActivityLogger0bcD0C", "logDivider"]
+- !private ["30AlamofireNetworkActivityLogger0bcD0C", "logHeaders"]
+- !private ["30AlamofireNetworkActivityLogger0bcD0C", "print"]
+- !private ["30AlamofireNetworkActivityLogger0bcD0C", "queue"]
+- !private ["30AlamofireNetworkActivityLogger0bcD0C", "requestDidFinish"]
+- !private ["30AlamofireNetworkActivityLogger0bcD0C", "requestDidStart"]
+- ["30AlamofireNetworkActivityLogger0bcD0C", "shared"]
+- ["30AlamofireNetworkActivityLogger0bcD0C", "startLogging"]
+- ["30AlamofireNetworkActivityLogger0bcD0C", "stopLogging"]
+- ["30AlamofireNetworkActivityLogger0bcD5LevelO", "=="]
+- ["30AlamofireNetworkActivityLogger0bcD5LevelO", "__derived_enum_equals"]
+- ["30AlamofireNetworkActivityLogger0bcD5LevelO", "_rawHashValue"]
+- ["30AlamofireNetworkActivityLogger0bcD5LevelO", "debug"]
+- ["30AlamofireNetworkActivityLogger0bcD5LevelO", "deinit"]
+- ["30AlamofireNetworkActivityLogger0bcD5LevelO", "error"]
+- ["30AlamofireNetworkActivityLogger0bcD5LevelO", "fatal"]
+- ["30AlamofireNetworkActivityLogger0bcD5LevelO", "hash"]
+- ["30AlamofireNetworkActivityLogger0bcD5LevelO", "hashValue"]
+- ["30AlamofireNetworkActivityLogger0bcD5LevelO", "info"]
+- ["30AlamofireNetworkActivityLogger0bcD5LevelO", "off"]
+- ["30AlamofireNetworkActivityLogger0bcD5LevelO", "warn"]
+- !private ["10Foundation12NotificationV", "request"]
+- !private ["So20NSNotificationCenterC", "addObserver"]
+- !private ["So20NSNotificationCenterC", "default"]
+- !private ["So20NSNotificationCenterC", "removeObserver"]
+- !private ["So9OS_objectC", "async"]
+- ["So9OS_objectC", "init"]
+- !private ["s9OptionSetP", "mutableContainers"]
+- !private ["s9OptionSetP", "prettyPrinted"]
+- !private ["So19NSProgressReportingP", "error"]
+- !private ["So19NSProgressReportingP", "originalRequest"]
+- !private ["So19NSProgressReportingP", "response"]
+- !private ["Sm", "Encoding"]
+- !private ["Sm", "init"]
+- !private ["SY", "mutableContainers"]
+- !private ["SY", "prettyPrinted"]
+- !private ["SY", "rawValue"]
+- !private ["SY", "utf8"]
+- !private ["So20NSJSONReadingOptionsV", "mutableContainers"]
+- !private ["10Foundation20ReferenceConvertibleP", "absoluteString"]
+- !private ["10Foundation20ReferenceConvertibleP", "allHTTPHeaderFields"]
+- !private ["10Foundation20ReferenceConvertibleP", "duration"]
+- !private ["10Foundation20ReferenceConvertibleP", "httpBody"]
+- !private ["10Foundation20ReferenceConvertibleP", "httpMethod"]
+- !private ["10Foundation20ReferenceConvertibleP", "request"]
+- !private ["10Foundation20ReferenceConvertibleP", "url"]
+- !private ["9Alamofire7RequestC", "data"]
+- !private ["9Alamofire7RequestC", "didFinishNotification"]
+- !private ["9Alamofire7RequestC", "didResumeNotification"]
+- !private ["9Alamofire7RequestC", "metrics"]
+- !private ["9Alamofire7RequestC", "task"]
+- !private ["7Combine9SchedulerP", "async"]
+- ["7Combine9SchedulerP", "init"]
+- !private ["ST", "Encoding"]
+- !private ["ST", "init"]
+- !private ["s10SetAlgebraP", "mutableContainers"]
+- !private ["s10SetAlgebraP", "prettyPrinted"]
+- !private ["SS", "Encoding"]
+- !private ["SS", "init"]
+- ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "Encoding"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "Encoding"]
+- ["s16TextOutputStreamP", "appendInterpolation"]
+- ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "Encoding"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["10Foundation3URLV", "absoluteString"]
+- !private ["9Alamofire14URLConvertibleP", "Encoding"]
+- !private ["9Alamofire14URLConvertibleP", "absoluteString"]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["10Foundation10URLRequestV", "allHTTPHeaderFields"]
+- !private ["10Foundation10URLRequestV", "httpBody"]
+- !private ["10Foundation10URLRequestV", "httpMethod"]
+- !private ["10Foundation10URLRequestV", "url"]
+- !private ["9Alamofire21URLRequestConvertibleP", "allHTTPHeaderFields"]
+- !private ["9Alamofire21URLRequestConvertibleP", "httpBody"]
+- !private ["9Alamofire21URLRequestConvertibleP", "httpMethod"]
+- !private ["9Alamofire21URLRequestConvertibleP", "url"]
+- !private ["So13NSURLResponseC", "allHeaderFields"]
+- !private ["So13NSURLResponseC", "statusCode"]
+- !private ["So16NSURLSessionTaskC", "error"]
+- !private ["So16NSURLSessionTaskC", "originalRequest"]
+- !private ["So16NSURLSessionTaskC", "response"]
+- !private ["So23NSURLSessionTaskMetricsC", "taskInterval"]
+- !private ["So20NSJSONWritingOptionsV", "prettyPrinted"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "Encoding"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "absoluteString"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "Encoding"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "Encoding"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "Encoding"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "absoluteString"]
+- !private ["s19_HasContiguousBytesP", "Encoding"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addObserver"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "allHeaderFields"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "async"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "data"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "error"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "evaluate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "jsonObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "originalRequest"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeObserver"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "response"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "statusCode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "taskInterval"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addObserver"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "allHeaderFields"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "async"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "data"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "default"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "error"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "evaluate"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "jsonObject"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "originalRequest"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "removeObserver"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "response"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "statusCode"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "taskInterval"]
+- !private ["s21_ObjectiveCBridgeableP", "Encoding"]
+- !private ["s21_ObjectiveCBridgeableP", "absoluteString"]
+- !private ["s21_ObjectiveCBridgeableP", "allHTTPHeaderFields"]
+- !private ["s21_ObjectiveCBridgeableP", "duration"]
+- !private ["s21_ObjectiveCBridgeableP", "httpBody"]
+- !private ["s21_ObjectiveCBridgeableP", "httpMethod"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "request"]
+- !private ["s21_ObjectiveCBridgeableP", "url"]
+depends-nominal:
+- !private "SK"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "9Alamofire11DataRequestC"
+- !private "10Foundation12DateIntervalV"
+- !private "Se"
+- "s26DefaultStringInterpolationV"
+- "So18OS_dispatch_objectC"
+- "So17OS_dispatch_queueC"
+- !private "SE"
+- !private "SS10FoundationE8EncodingV"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So17NSHTTPURLResponseC"
+- "SH"
+- !private "s6HasherV"
+- !private "So19NSJSONSerializationC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So11NSPredicateC"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- "30AlamofireNetworkActivityLogger0bcD0C"
+- "30AlamofireNetworkActivityLogger0bcD5LevelO"
+- !private "10Foundation12NotificationV"
+- !private "So20NSNotificationCenterC"
+- "So9OS_objectC"
+- !private "s9OptionSetP"
+- !private "So19NSProgressReportingP"
+- !private "Sm"
+- !private "SY"
+- !private "So20NSJSONReadingOptionsV"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "9Alamofire7RequestC"
+- "7Combine9SchedulerP"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- !private "SS"
+- "s27StringInterpolationProtocolP"
+- !private "Sy"
+- "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "10Foundation3URLV"
+- !private "9Alamofire14URLConvertibleP"
+- !private "10Foundation10URLRequestV"
+- !private "9Alamofire21URLRequestConvertibleP"
+- !private "So13NSURLResponseC"
+- !private "So16NSURLSessionTaskC"
+- !private "So23NSURLSessionTaskMetricsC"
+- !private "So20NSJSONWritingOptionsV"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/williamtomaz/Downloads/Desafio App Moobie/DerivedData/Desafio App Moobie/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+- "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Target Support Files/AlamofireNetworkActivityLogger/AlamofireNetworkActivityLogger-umbrella.h"
+- "/Users/williamtomaz/Downloads/Desafio App Moobie/DerivedData/Desafio App Moobie/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/williamtomaz/Downloads/Desafio App Moobie/DerivedData/Desafio App Moobie/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/AlamofireNetworkActivityLogger.build/unextended-module.modulemap"
+- "/Users/williamtomaz/Downloads/Desafio App Moobie/DerivedData/Desafio App Moobie/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Alamofire.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "40fcd6dfeb1fdf368b14b5e04c80eed7"

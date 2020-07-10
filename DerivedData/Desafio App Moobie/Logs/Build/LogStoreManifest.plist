@@ -1,0 +1,2017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>03971D27-01FE-4E06-8F01-F39B73FF0892</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>03971D27-01FE-4E06-8F01-F39B73FF0892.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615419057.62042904</real>
+			<key>timeStoppedRecording</key>
+			<real>615419063.37684095</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>03971D27-01FE-4E06-8F01-F39B73FF0892</string>
+		</dict>
+		<key>0438DB6A-55A9-4F69-B0A9-820821F7323A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0438DB6A-55A9-4F69-B0A9-820821F7323A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615416120.85101295</real>
+			<key>timeStoppedRecording</key>
+			<real>615416124.21381199</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>0438DB6A-55A9-4F69-B0A9-820821F7323A</string>
+		</dict>
+		<key>0A1DA5FD-11B8-45F1-86F7-01CE7C2059ED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0A1DA5FD-11B8-45F1-86F7-01CE7C2059ED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615412979.94866896</real>
+			<key>timeStoppedRecording</key>
+			<real>615412987.87529397</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>0A1DA5FD-11B8-45F1-86F7-01CE7C2059ED</string>
+		</dict>
+		<key>0A35A297-3EAA-42EA-A592-8FF7074AC1F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0A35A297-3EAA-42EA-A592-8FF7074AC1F5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615420470.08140898</real>
+			<key>timeStoppedRecording</key>
+			<real>615420478.89835799</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>0A35A297-3EAA-42EA-A592-8FF7074AC1F5</string>
+		</dict>
+		<key>0B24EF84-5679-44F7-901B-11DC96759CCE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0B24EF84-5679-44F7-901B-11DC96759CCE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615412659.30787206</real>
+			<key>timeStoppedRecording</key>
+			<real>615412669.96084201</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>0B24EF84-5679-44F7-901B-11DC96759CCE</string>
+		</dict>
+		<key>0BE81E7D-8C5F-44D6-9386-1394E3777949</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0BE81E7D-8C5F-44D6-9386-1394E3777949.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615422459.06814694</real>
+			<key>timeStoppedRecording</key>
+			<real>615422459.87483704</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>0BE81E7D-8C5F-44D6-9386-1394E3777949</string>
+		</dict>
+		<key>0FB8CEB1-A247-4E74-9C4D-17B831AB1B6F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0FB8CEB1-A247-4E74-9C4D-17B831AB1B6F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615420723.77537704</real>
+			<key>timeStoppedRecording</key>
+			<real>615420723.84690905</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>0FB8CEB1-A247-4E74-9C4D-17B831AB1B6F</string>
+		</dict>
+		<key>18EC5AE6-A025-4928-9F68-04AAB60A3FED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>18EC5AE6-A025-4928-9F68-04AAB60A3FED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615422162.60640502</real>
+			<key>timeStoppedRecording</key>
+			<real>615422168.575369</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>18EC5AE6-A025-4928-9F68-04AAB60A3FED</string>
+		</dict>
+		<key>1E12A98A-7F77-4B3D-98DB-B69A2CD57AC4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1E12A98A-7F77-4B3D-98DB-B69A2CD57AC4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615413844.64673805</real>
+			<key>timeStoppedRecording</key>
+			<real>615413851.31177104</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>1E12A98A-7F77-4B3D-98DB-B69A2CD57AC4</string>
+		</dict>
+		<key>20D699C9-01C8-417E-BDD3-3ED813E2FFAF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>20D699C9-01C8-417E-BDD3-3ED813E2FFAF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615416169.50390804</real>
+			<key>timeStoppedRecording</key>
+			<real>615416172.88758504</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>20D699C9-01C8-417E-BDD3-3ED813E2FFAF</string>
+		</dict>
+		<key>2E1878BE-F2E6-4FB9-9BEA-E80DA82719BD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2E1878BE-F2E6-4FB9-9BEA-E80DA82719BD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615418754.37896895</real>
+			<key>timeStoppedRecording</key>
+			<real>615418757.642506</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>2E1878BE-F2E6-4FB9-9BEA-E80DA82719BD</string>
+		</dict>
+		<key>323C09D9-70CB-42DB-97EF-6FFC95097DBD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>323C09D9-70CB-42DB-97EF-6FFC95097DBD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615414374.42632401</real>
+			<key>timeStoppedRecording</key>
+			<real>615414379.35727406</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>323C09D9-70CB-42DB-97EF-6FFC95097DBD</string>
+		</dict>
+		<key>4A999E1C-D020-4359-A4F9-E7D84AA5A34D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4A999E1C-D020-4359-A4F9-E7D84AA5A34D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615410473.24577904</real>
+			<key>timeStoppedRecording</key>
+			<real>615410478.46835494</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>4A999E1C-D020-4359-A4F9-E7D84AA5A34D</string>
+		</dict>
+		<key>4AF01DB6-5F6C-424C-89B8-35A8C4DA1768</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4AF01DB6-5F6C-424C-89B8-35A8C4DA1768.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615417990.97442698</real>
+			<key>timeStoppedRecording</key>
+			<real>615417991.98464799</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>4AF01DB6-5F6C-424C-89B8-35A8C4DA1768</string>
+		</dict>
+		<key>4BE0F67F-4B91-4E4D-A3C0-B973854AAA9C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4BE0F67F-4B91-4E4D-A3C0-B973854AAA9C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615409270.63604295</real>
+			<key>timeStoppedRecording</key>
+			<real>615409276.70566905</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>4BE0F67F-4B91-4E4D-A3C0-B973854AAA9C</string>
+		</dict>
+		<key>4F78BEA6-386E-45E9-9C5F-F815DBAF11E8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4F78BEA6-386E-45E9-9C5F-F815DBAF11E8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615418858.35750496</real>
+			<key>timeStoppedRecording</key>
+			<real>615418861.45408499</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>4F78BEA6-386E-45E9-9C5F-F815DBAF11E8</string>
+		</dict>
+		<key>56508094-C938-43FE-B52E-78DD9B3CE11E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>56508094-C938-43FE-B52E-78DD9B3CE11E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615420987.681934</real>
+			<key>timeStoppedRecording</key>
+			<real>615420991.51731801</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>56508094-C938-43FE-B52E-78DD9B3CE11E</string>
+		</dict>
+		<key>587F8AE0-90B7-4270-ADB4-DB2548BBF49A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>587F8AE0-90B7-4270-ADB4-DB2548BBF49A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615415758.535164</real>
+			<key>timeStoppedRecording</key>
+			<real>615415762.64384198</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>587F8AE0-90B7-4270-ADB4-DB2548BBF49A</string>
+		</dict>
+		<key>617D79C6-82F1-4084-9C85-73A22521316F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>617D79C6-82F1-4084-9C85-73A22521316F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615412601.08166206</real>
+			<key>timeStoppedRecording</key>
+			<real>615412602.64675701</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>617D79C6-82F1-4084-9C85-73A22521316F</string>
+		</dict>
+		<key>6AF5D6F5-3928-446E-84E7-21C6549C44CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6AF5D6F5-3928-446E-84E7-21C6549C44CE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615422520.28736198</real>
+			<key>timeStoppedRecording</key>
+			<real>615422524.90484595</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>6AF5D6F5-3928-446E-84E7-21C6549C44CE</string>
+		</dict>
+		<key>6C039279-78B4-4383-8710-EBCF0D8F3212</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6C039279-78B4-4383-8710-EBCF0D8F3212.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615416006.60873902</real>
+			<key>timeStoppedRecording</key>
+			<real>615416010.89568698</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>6C039279-78B4-4383-8710-EBCF0D8F3212</string>
+		</dict>
+		<key>6C5FC48D-AF3F-41DC-9739-DE6A08ADA236</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6C5FC48D-AF3F-41DC-9739-DE6A08ADA236.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615420892.56482804</real>
+			<key>timeStoppedRecording</key>
+			<real>615420898.360618</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>6C5FC48D-AF3F-41DC-9739-DE6A08ADA236</string>
+		</dict>
+		<key>76AD3F52-34D3-43B1-83AC-8B6B63845EFD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>76AD3F52-34D3-43B1-83AC-8B6B63845EFD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615409601.03262603</real>
+			<key>timeStoppedRecording</key>
+			<real>615409608.11078799</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>76AD3F52-34D3-43B1-83AC-8B6B63845EFD</string>
+		</dict>
+		<key>773F0B11-FB0D-4D4A-8E96-DE8176A90187</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>773F0B11-FB0D-4D4A-8E96-DE8176A90187.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615422711.90850306</real>
+			<key>timeStoppedRecording</key>
+			<real>615422718.22717702</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>773F0B11-FB0D-4D4A-8E96-DE8176A90187</string>
+		</dict>
+		<key>7B318753-0464-42CA-A8E8-54C8E39AA467</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7B318753-0464-42CA-A8E8-54C8E39AA467.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615409363.533512</real>
+			<key>timeStoppedRecording</key>
+			<real>615409370.69295096</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>7B318753-0464-42CA-A8E8-54C8E39AA467</string>
+		</dict>
+		<key>7E7B428D-1696-439F-81E7-7EEE9EA1F5A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7E7B428D-1696-439F-81E7-7EEE9EA1F5A2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615414515.73670602</real>
+			<key>timeStoppedRecording</key>
+			<real>615414525.09634697</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>7E7B428D-1696-439F-81E7-7EEE9EA1F5A2</string>
+		</dict>
+		<key>8080433A-8AD2-4743-B4B1-1651A185BC38</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8080433A-8AD2-4743-B4B1-1651A185BC38.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615495512.85221398</real>
+			<key>timeStoppedRecording</key>
+			<real>615495520.85371494</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>8080433A-8AD2-4743-B4B1-1651A185BC38</string>
+		</dict>
+		<key>81E498B2-8972-4454-AFBB-13DAA3692782</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>81E498B2-8972-4454-AFBB-13DAA3692782.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615418582.646698</real>
+			<key>timeStoppedRecording</key>
+			<real>615418586.21405697</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>81E498B2-8972-4454-AFBB-13DAA3692782</string>
+		</dict>
+		<key>832946E9-DDBD-49F6-8F40-14CF56F9627F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>832946E9-DDBD-49F6-8F40-14CF56F9627F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615495165.28391504</real>
+			<key>timeStoppedRecording</key>
+			<real>615495177.53670502</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>832946E9-DDBD-49F6-8F40-14CF56F9627F</string>
+		</dict>
+		<key>84B61308-E58E-474A-8A1C-086979A788DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>84B61308-E58E-474A-8A1C-086979A788DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615418723.59259999</real>
+			<key>timeStoppedRecording</key>
+			<real>615418723.76460803</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>84B61308-E58E-474A-8A1C-086979A788DE</string>
+		</dict>
+		<key>9310DF7C-3686-4632-9A5A-3BE05F4FFF09</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9310DF7C-3686-4632-9A5A-3BE05F4FFF09.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615417619.11160398</real>
+			<key>timeStoppedRecording</key>
+			<real>615417622.57753694</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>9310DF7C-3686-4632-9A5A-3BE05F4FFF09</string>
+		</dict>
+		<key>936503FB-220B-4682-966A-EC6807322201</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>936503FB-220B-4682-966A-EC6807322201.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615414236.30711496</real>
+			<key>timeStoppedRecording</key>
+			<real>615414242.68510103</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>936503FB-220B-4682-966A-EC6807322201</string>
+		</dict>
+		<key>95E9811D-196D-4E60-A615-7B6FA0DAFDD4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>95E9811D-196D-4E60-A615-7B6FA0DAFDD4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615414156.11399901</real>
+			<key>timeStoppedRecording</key>
+			<real>615414160.99565995</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>95E9811D-196D-4E60-A615-7B6FA0DAFDD4</string>
+		</dict>
+		<key>9F5C540D-1F14-4B9B-A11D-8AEDD6828789</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9F5C540D-1F14-4B9B-A11D-8AEDD6828789.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615408300.00394106</real>
+			<key>timeStoppedRecording</key>
+			<real>615408325.53441298</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>9F5C540D-1F14-4B9B-A11D-8AEDD6828789</string>
+		</dict>
+		<key>A012983C-B6E0-493E-9C49-EC998F36AF6B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A012983C-B6E0-493E-9C49-EC998F36AF6B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615420758.99289203</real>
+			<key>timeStoppedRecording</key>
+			<real>615420769.25637102</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>A012983C-B6E0-493E-9C49-EC998F36AF6B</string>
+		</dict>
+		<key>A2C24A70-1078-40FB-A772-179B6462F3B2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A2C24A70-1078-40FB-A772-179B6462F3B2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615420692.45627105</real>
+			<key>timeStoppedRecording</key>
+			<real>615420695.26634204</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>A2C24A70-1078-40FB-A772-179B6462F3B2</string>
+		</dict>
+		<key>A4AA6AAC-6AD1-4061-9858-43D8E91B0179</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A4AA6AAC-6AD1-4061-9858-43D8E91B0179.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615414328.05200005</real>
+			<key>timeStoppedRecording</key>
+			<real>615414333.12996197</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>A4AA6AAC-6AD1-4061-9858-43D8E91B0179</string>
+		</dict>
+		<key>B402025E-2864-4C8A-9E49-28A9429AFD83</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B402025E-2864-4C8A-9E49-28A9429AFD83.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615408228.88817894</real>
+			<key>timeStoppedRecording</key>
+			<real>615408228.97114098</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>B402025E-2864-4C8A-9E49-28A9429AFD83</string>
+		</dict>
+		<key>B7994176-7A5D-40F5-85C6-B7A093A46B70</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B7994176-7A5D-40F5-85C6-B7A093A46B70.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615495521.16674399</real>
+			<key>timeStoppedRecording</key>
+			<real>615495535.18721902</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>B7994176-7A5D-40F5-85C6-B7A093A46B70</string>
+		</dict>
+		<key>B9E9083C-1253-4A61-970C-261EA9EC8AE7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B9E9083C-1253-4A61-970C-261EA9EC8AE7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615410430.64956796</real>
+			<key>timeStoppedRecording</key>
+			<real>615410435.82839096</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>B9E9083C-1253-4A61-970C-261EA9EC8AE7</string>
+		</dict>
+		<key>BE7D650D-3BB4-4972-8D92-165A7C64A6AE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BE7D650D-3BB4-4972-8D92-165A7C64A6AE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615408260.27134097</real>
+			<key>timeStoppedRecording</key>
+			<real>615408260.35023606</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>BE7D650D-3BB4-4972-8D92-165A7C64A6AE</string>
+		</dict>
+		<key>D47D70AC-8482-48A2-8931-A4980C01E4C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D47D70AC-8482-48A2-8931-A4980C01E4C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615420942.65802395</real>
+			<key>timeStoppedRecording</key>
+			<real>615420947.14315104</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>D47D70AC-8482-48A2-8931-A4980C01E4C1</string>
+		</dict>
+		<key>D5417A87-3025-40EB-8014-69D10FB8B3A9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5417A87-3025-40EB-8014-69D10FB8B3A9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615416566.36608696</real>
+			<key>timeStoppedRecording</key>
+			<real>615416567.99254096</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>D5417A87-3025-40EB-8014-69D10FB8B3A9</string>
+		</dict>
+		<key>D555F965-682C-41DD-BEC8-CCFE0C5AEF15</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D555F965-682C-41DD-BEC8-CCFE0C5AEF15.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615420554.27118301</real>
+			<key>timeStoppedRecording</key>
+			<real>615420557.78408694</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>D555F965-682C-41DD-BEC8-CCFE0C5AEF15</string>
+		</dict>
+		<key>DCD69CE9-C486-43E6-80D3-F60CCCE91557</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DCD69CE9-C486-43E6-80D3-F60CCCE91557.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615410545.89289606</real>
+			<key>timeStoppedRecording</key>
+			<real>615410546.04187799</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>DCD69CE9-C486-43E6-80D3-F60CCCE91557</string>
+		</dict>
+		<key>DD9FC655-4A32-418F-A9E3-FDF5E73910F8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DD9FC655-4A32-418F-A9E3-FDF5E73910F8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615417580.90194798</real>
+			<key>timeStoppedRecording</key>
+			<real>615417584.09115303</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>DD9FC655-4A32-418F-A9E3-FDF5E73910F8</string>
+		</dict>
+		<key>DFEE71AC-AD09-4B3A-8319-90619D013482</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DFEE71AC-AD09-4B3A-8319-90619D013482.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615410354.19203496</real>
+			<key>timeStoppedRecording</key>
+			<real>615410367.50963295</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>DFEE71AC-AD09-4B3A-8319-90619D013482</string>
+		</dict>
+		<key>E0212DE1-3AD9-480F-A034-D751EFB0ED74</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E0212DE1-3AD9-480F-A034-D751EFB0ED74.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615409221.05415702</real>
+			<key>timeStoppedRecording</key>
+			<real>615409226.96990705</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>E0212DE1-3AD9-480F-A034-D751EFB0ED74</string>
+		</dict>
+		<key>E162BC48-ED72-49BE-9A65-CD6B9D477B39</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E162BC48-ED72-49BE-9A65-CD6B9D477B39.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615416496.90936196</real>
+			<key>timeStoppedRecording</key>
+			<real>615416500.52135503</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>E162BC48-ED72-49BE-9A65-CD6B9D477B39</string>
+		</dict>
+		<key>E26D6694-3FCA-4A05-B6CB-6F88A6C998A9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E26D6694-3FCA-4A05-B6CB-6F88A6C998A9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615410620.68327296</real>
+			<key>timeStoppedRecording</key>
+			<real>615410625.36534095</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>E26D6694-3FCA-4A05-B6CB-6F88A6C998A9</string>
+		</dict>
+		<key>E38E1026-9103-4030-B019-9656176A3135</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E38E1026-9103-4030-B019-9656176A3135.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615418143.84168303</real>
+			<key>timeStoppedRecording</key>
+			<real>615418144.03698099</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>E38E1026-9103-4030-B019-9656176A3135</string>
+		</dict>
+		<key>E72ACF02-29A8-47DB-9C13-136ADC1B3514</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E72ACF02-29A8-47DB-9C13-136ADC1B3514.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615494935.45516706</real>
+			<key>timeStoppedRecording</key>
+			<real>615494945.44691801</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>E72ACF02-29A8-47DB-9C13-136ADC1B3514</string>
+		</dict>
+		<key>E931A9B1-0A0E-4F78-BA7B-9A56AA7CF031</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E931A9B1-0A0E-4F78-BA7B-9A56AA7CF031.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615418685.48954499</real>
+			<key>timeStoppedRecording</key>
+			<real>615418688.71561599</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>E931A9B1-0A0E-4F78-BA7B-9A56AA7CF031</string>
+		</dict>
+		<key>E993B889-1911-45AB-A1DE-662A24BD95BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E993B889-1911-45AB-A1DE-662A24BD95BB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615495622.67234004</real>
+			<key>timeStoppedRecording</key>
+			<real>615495622.94248104</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>E993B889-1911-45AB-A1DE-662A24BD95BB</string>
+		</dict>
+		<key>EC99F073-3C6F-45FB-9AA4-2E066F9797A7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EC99F073-3C6F-45FB-9AA4-2E066F9797A7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615417540.09041703</real>
+			<key>timeStoppedRecording</key>
+			<real>615417544.86638105</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>EC99F073-3C6F-45FB-9AA4-2E066F9797A7</string>
+		</dict>
+		<key>F265881F-4B2C-42E4-BA3D-8010E0216567</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F265881F-4B2C-42E4-BA3D-8010E0216567.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615418064.26459599</real>
+			<key>timeStoppedRecording</key>
+			<real>615418072.72732902</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>F265881F-4B2C-42E4-BA3D-8010E0216567</string>
+		</dict>
+		<key>F6CC14E8-3539-46E2-9758-764E4BB0C786</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F6CC14E8-3539-46E2-9758-764E4BB0C786.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615409659.49324703</real>
+			<key>timeStoppedRecording</key>
+			<real>615409661.29379404</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>F6CC14E8-3539-46E2-9758-764E4BB0C786</string>
+		</dict>
+		<key>FB1CD220-4DEC-4B00-BAF7-4BD301BD2E9A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FB1CD220-4DEC-4B00-BAF7-4BD301BD2E9A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615418406.81908095</real>
+			<key>timeStoppedRecording</key>
+			<real>615418410.34962106</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>FB1CD220-4DEC-4B00-BAF7-4BD301BD2E9A</string>
+		</dict>
+		<key>FD33A5AD-8DEE-4862-B7AD-5F5DA9EE99E2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FD33A5AD-8DEE-4862-B7AD-5F5DA9EE99E2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Desafio App Moobie project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Desafio App Moobie</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Desafio App Moobie</string>
+			<key>timeStartedRecording</key>
+			<real>615422218.90469599</real>
+			<key>timeStoppedRecording</key>
+			<real>615422219.06087399</real>
+			<key>title</key>
+			<string>Build Desafio App Moobie</string>
+			<key>uniqueIdentifier</key>
+			<string>FD33A5AD-8DEE-4862-B7AD-5F5DA9EE99E2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

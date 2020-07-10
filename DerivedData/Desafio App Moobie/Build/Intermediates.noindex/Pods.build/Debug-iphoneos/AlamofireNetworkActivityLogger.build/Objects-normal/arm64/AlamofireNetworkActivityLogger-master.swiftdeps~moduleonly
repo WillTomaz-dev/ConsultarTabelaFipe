@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "76599392e5854f1a089538ae4076096e"
+build_time: [1593715509, 739516000]
+inputs:
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/AlamofireNetworkActivityLogger/Source/NetworkActivityLogger.swift": [1593706461, 517512812]

@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "aa180e259d51cd2ab27e842e575ed795"
+build_time: [1593635183, 420852000]
+inputs:
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/AFError.swift": [9223372036, 854775807]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/Alamofire.swift": [9223372036, 854775807]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [9223372036, 854775807]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/MultipartFormData.swift": [9223372036, 854775807]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [9223372036, 854775807]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/Notifications.swift": [9223372036, 854775807]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/ParameterEncoding.swift": [9223372036, 854775807]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/Request.swift": [9223372036, 854775807]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/Response.swift": [9223372036, 854775807]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/ResponseSerialization.swift": [9223372036, 854775807]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/Result.swift": [9223372036, 854775807]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/ServerTrustPolicy.swift": [9223372036, 854775807]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/SessionDelegate.swift": [9223372036, 854775807]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/SessionManager.swift": [9223372036, 854775807]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/TaskDelegate.swift": [9223372036, 854775807]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/Timeline.swift": [9223372036, 854775807]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Pods/Alamofire/Source/Validation.swift": [9223372036, 854775807]

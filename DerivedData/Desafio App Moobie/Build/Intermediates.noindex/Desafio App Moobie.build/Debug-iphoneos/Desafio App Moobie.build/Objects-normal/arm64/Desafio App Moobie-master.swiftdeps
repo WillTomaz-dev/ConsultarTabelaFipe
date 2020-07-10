@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "78dbdaab3240228043578402381946e3"
+build_time: [1593802713, 37701000]
+inputs:
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Desafio App Moobie/New Group/CarsTableViewController.swift": [1593729762, 498263864]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Desafio App Moobie/New Group/HomeViewController.swift": [1593802712, 843697756]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Desafio App Moobie/AppDelegate.swift": [1593706492, 262387539]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Desafio App Moobie/REST.swift": [1593727892, 445146381]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Desafio App Moobie/New Group/CarsViewController.swift": [1593729759, 351211662]
+  "/Users/williamtomaz/Downloads/Desafio App Moobie/Desafio App Moobie/FIPE.swift": [1593630660, 486289730]

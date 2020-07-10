@@ -1,0 +1,10 @@
+framework module AlamofireNetworkActivityLogger {
+  umbrella header "AlamofireNetworkActivityLogger-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module AlamofireNetworkActivityLogger.__Swift {
+    exclude header "AlamofireNetworkActivityLogger-Swift.h"
+}
